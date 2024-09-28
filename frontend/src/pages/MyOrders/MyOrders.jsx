@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useContext } from 'react';
+import { useEffect, useState, useContext } from 'react';
 import PropTypes from 'prop-types'; // Import PropTypes for prop validation
 import './MyOrders.css';
 import { StoreContext } from '../../context/StoreContext';
